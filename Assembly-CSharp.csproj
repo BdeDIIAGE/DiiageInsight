@@ -68,6 +68,8 @@
     <Compile Include="Assets\Scripts\Common\SceneManager.cs" />
     <Compile Include="Assets\Scripts\HubScene\Door.cs" />
     <Compile Include="Assets\Scripts\HubScene\Portal.cs" />
+    <Compile Include="Assets\Scripts\Maurin\ButtonEffectMaurin.cs" />
+    <Compile Include="Assets\Scripts\Maurin\ConsoleScript.cs" />
     <None Include="Assets\LowPolyPack\Shaders\ToonShader\Shaders\AxeyWorksToonBasic.shader" />
     <None Include="Assets\LowPolyPack\Shaders\MobileDistortionShader\AxeyWorksMobDist.shader" />
     <None Include="Assets\LowPolyPack\Shaders\MobileDistortionShader\AxeyWorksMobDist.cginc" />
@@ -81,37 +83,37 @@
     <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />
     <None Include="Assets\LowPolyPack\Shaders\AxeyWorksDistortion.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -291,7 +293,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>C:/Users/Laptop-Maurin/Desktop/ClubUnity/DiiageInsight/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/Alex-PC/Documents/GitHub/DiiageInsight/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.15f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
